@@ -51,6 +51,8 @@ Atualizar um registro: ```/api/student/update/:id``` -> substitua pelo número d
 
 Deletar um registro: ```/api/student/delete/:id``` -> substitua pelo número de um ID válido
 
+* Para isso o ```server.js``` tem que estar de pé.
+
 _______________________________________________________________________________________________________________________________________
 
 ## ⚙️ Tecnologias utilizadas
