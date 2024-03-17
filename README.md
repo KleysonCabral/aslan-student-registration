@@ -1,27 +1,39 @@
-# Frontend
+# Projeto Cadastro de Aluno
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
+Consiste na criação do cadastro de um cadastro de aluno para uma instituição.
 
-## Development server
+## 🚀 Começando
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
-## Code scaffolding
+Lembre-se. É de extrema importância você ter o seu ambiente local preparadado para poder rodar de correta sem empecílhos e não ocasionar erros causando atrasos.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### 🔧 Backend
 
-## Build
+* Primeiramente faça um ``` git clone ``` do projeto em sua máquina
+* Estando com o Backend em sua máquina local, e acessando ao terminal, dirija-se a pasta raíz, e execute ``` Nodemon server.js```
+* Executando de forma bem sucessida, mostrará uma mensagem positiva e a porta disponível.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### 🔧 Frontend
 
-## Running unit tests
+* É muito importante instalar ou atualizar os dados que estão inseridos como dependência, através de ``` npm install ```
+* Após a verificação, para você subir o projeto, vá até as pasta raíz do frontend e rode ``` ng serve ```
+* Você verá que será disponibilizada uma porta, insira na URL do seu browser para visualizar o projeto Frontend -> ``` localhost:4200 ```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## ⚙️ Banco de Dados 
 
-## Running end-to-end tests
+* Você precisa ter o Xampp instalado e configurado em sua máquina
+* Após isso, você poderá acessar o ``` phpadmin ``` para verificar os dados criados no banco de dados
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## ⚙️ Postman
 
-## Further help
+* Para realizar o teste e comprovação do funcionamente da API, você pode utilizar o Postman, inserindo os endpoints para teste.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### 📋 Importante!
+
+Estou realizando esse projeto um pouco mais de uma semana. Criei a parte do Frontend de forma separada. Tive algumas complicações na minha máquina. Quando realizei o push do meu projeto frontend, acabei perdendo o meu projeto backend e o histórico de commits. Realizei então a inserção do meu backend que estava salvo, diretamente pelo github. Está funcionando de forma normal.
+
+
+## ✒️ Autores
+
+Kleyson da Silva Cabral
