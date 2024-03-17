@@ -53,6 +53,15 @@ Deletar um registro: ```/api/student/delete/:id``` -> substitua pelo número de 
 
 _______________________________________________________________________________________________________________________________________
 
+## ⚙️ Tecnologias utilizadas
+
+* Node;
+* Angular;
+* Mysql;
+* Express.
+
+ _______________________________________________________________________________________________________________________________________
+
 ### 📋 Importante!
 
 Estou realizando esse projeto um pouco mais de uma semana. Criei a parte do Frontend de forma separada. Tive algumas complicações na minha máquina. Quando realizei o push do meu projeto frontend, acabei perdendo o meu projeto backend e o histórico de commits. Realizei então a inserção do meu backend que estava salvo, diretamente pelo github. Está funcionando de forma normal.
