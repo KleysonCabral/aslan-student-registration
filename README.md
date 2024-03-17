@@ -58,6 +58,7 @@ ________________________________________________________________________________
 ## ⚙️ Tecnologias utilizadas
 
 * Node;
+* Javascript e Typescript;
 * Angular;
 * Mysql;
 * Express.
