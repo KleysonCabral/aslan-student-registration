@@ -71,6 +71,6 @@ Estou realizando esse projeto um pouco mais de uma semana. Criei a parte do Fron
 
 _______________________________________________________________________________________________________________________________________
 
-## ✒️ Autores
+## ✒️ Autore
 
 Kleyson da Silva Cabral
